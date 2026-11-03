@@ -1,16 +1,24 @@
-## Hi there 👋
+# OmniPostr
 
-<!--
-**OmniPostr/OmniPostr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Post once. Be everywhere.**
 
-Here are some ideas to get you started:
+I'm Rado, founder and product creator of OmniPostr.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+OmniPostr helps creators, founders, and content teams turn source content into channel-specific drafts. The workflow brings together content adaptation, review, and scheduling and publishing where supported.
+
+## From one source to multiple channels
+
+Start with source content, adapt its tone, length, and format for each channel, then review and refine the drafts before scheduling or publishing through a supported connected workflow.
+
+## My work
+
+My work on OmniPostr spans:
+
+- Defining product requirements and the workflow from source content to publication.
+- Developing the user interface and backend integrations.
+- Checking AI-generated outputs against their source content.
+- Testing, documenting, and operating the product.
+
+OmniPostr is proprietary; its implementation is not included in this public presentation.
+
+[Explore OmniPostr](https://www.omnipostr.com/) · [Product overview](https://github.com/OmniPostr/platform)
